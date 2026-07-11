@@ -1,0 +1,140 @@
+You are carrying so much that you can hardly move.  You'd better drop something soon.	你帶著太多東西，幾乎無法移動。你最好趕快丟掉一些東西。
+Memory fragmented.	記憶體零碎化。
+There aren't any here.	這裡沒有。
+You can't get that.	你拿不到那個。
+You retrieve your shield.	你取回了盾牌。
+You pick up the loose daggers.	你撿起了散落的匕首。
+I don't know what you're trying to drop.	我不知道你想丟什麼。
+You can't drop something you don't have.	你不能丟你沒有的東西。
+You're about as stealthy as the average Goon.	你的潛行能力就像普通的小流氓一樣。
+Aggressive, aren't you?	你很好戰嘛?
+No one responds.	沒人回應。
+There's no point in trying that here.	在這裡試也沒用。
+You delicately insert the lockpick into your left nostril.	你輕輕地把開鎖工具插進你的左鼻孔。
+Unfortunately, you push it in too far, causing yourself a cerebral hemorrhage.  Guess you should have practiced some more on less difficult locks.	不幸的是，你插得太深，造成腦出血。看來你應該先在簡單的鎖上多練習。
+Success!  You now have an open nose.	成功！你的鼻子現在開了。
+You get no response.	沒有回應。
+It's not for sale.	那不是賣的。
+You're welcome!	不客氣！
+That's OK.	沒關係。
+Hi!	嗨！
+Bye!	再見！
+You're not close enough to a door.	你離門太遠。
+No one hears you knocking.	沒人聽到你敲門。
+You don't need to.	你不需要。
+You have no reason to do that.	你沒理由那樣做。
+You don't find anything interesting.	你沒找到有趣的東西。
+You don't see any here.	你看不到這裡有任何東西。
+You will not need to use the word "%s" in this game.	你在遊戲中不需要用到「%s」這個詞。
+Please try a different way of saying that.	試試用另一種說法。
+I'm not sure what you're trying to do.	我不確定你想做什麼。
+You're not close enough.	你離得不夠近。
+You've already done that.	你已經做過了。
+You can't do that now.	你現在不能這樣做。
+You don't have it.	你沒有。
+Go ahead.  Just do it.	去吧，就這樣做。
+Every hero needs a break now and then.  Have a nice nap.	每位英雄都需要時不時休息一下。\n好好睡一覺吧。
+There's no need.  You're not hungry.	沒必要。你不餓。
+You don't have any fruit.	你沒有水果。
+The rations are tasteless but filling.	口糧沒味道但很飽。
+You aren't carrying any rations.	你沒有帶乾糧。
+You are so exhausted that everything you do hurts.  Better get some rest.	你筋疲力盡到做任何事都會傷害你。最好休息一下。
+%s on day %d.	%s，第 %d 天。
+You are getting tired.	你變得疲憊。
+You are exhausted from lack of sleep.	你因缺乏睡眠而筋疲力盡。
+You just ate your last ration; you'd better get some more food soon.	你剛吃掉最後一份糧食；你最好趕快找點東西吃。
+You're starving.  Better find some food *soon*!	你快餓死了。趕快找食物！
+You're really getting hungry.	你真的開始餓了。
+Day is dawning	天色漸明
+It is mid-morning	已是上午中段
+It is midday	正是中午
+It is mid-afternoon	已是下午中段
+Sunset approaches	太陽西下
+The night is still young	夜幕尚淺
+It is the middle of the night	夜深了
+It is not yet dawn	天色未明
+Standard adventuring rations.	標準冒險糧食。
+Blank pieces of paper.	空白紙片。
+Open	開啟術
+Detect Magic	偵測魔法
+Trigger	觸發術
+Dazzle	眩目術
+Zap	閃電
+Calm	鎮定術
+Flame Dart	火焰鏢
+Fetch	取物術
+Quit sightseeing and watch what you're doing!	停止觀光，注意你在做什麼！
+You're too close.	你靠得太近了。
+You don't have time for that.	你沒時間做那事。
+Your weapon is now magically charged.	你的武器已經被施加了魔法充能。
+It was a tough battle, and you lost. Never fear!  All you have to do is restore your game, and... What do you mean, "Restore WHAT game?"	這場戰鬥很激烈,你輸了。別害怕!你只需要讀檔,然後……等等,你說什麼「讀什麼檔?」
+You pick up a few small rocks.	你撿起了幾塊小石頭。
+You detect no magic here.	你在這裡沒偵測到魔法。
+You don't know how to cast spells.	你不知道怎樣施法。
+You don't know that spell.	你不知道那個咒語。
+You don't have enough Magic Points to cast that spell.	你沒有足夠的法力來施展那個咒語。
+Not now!	現在不行！
+Name :	姓名：
+Strength	力量
+Intelligence	智力
+Agility	敏捷
+Vitality	體質
+Luck	幸運
+Puzzle Points	拼圖點
+Experience	經驗
+Health Points	生命力
+Stamina Points	耐力
+Magic Points	法力
+Weapon Use	武器
+Parry	招架
+Dodge	閃避
+Stealth	潛行
+Pick Locks	開鎖
+Throwing	投擲
+Climbing	攀爬
+Magic	魔法
+Nothing	無
+. . . and more	…等等
+Weight Carried	已攜帶重量
+Max Weight	最大負重
+MP	法力
+Spells:	法術：
+Skill	技能
+The door is already open.	門已經開了。
+The door is locked.	門是鎖著的。
+Why, you feel better already!	呀，你已經感覺好多了！
+You're already standing.	你已經站著了。
+There is no response.	沒有人回應。
+Nothing happens.	什麼都沒發生。
+Why would you want to do that?	你為什麼要那樣做？
+The chest is already open.	寶箱已經開著了。
+The chest is locked.	寶箱上了鎖。
+Ok, you drop it.	好吧，你丟掉了它。
+You knock three times.	你敲了三下。
+You don't know how to pick locks.	你不知道怎麼開鎖。
+Too late!	太遲了！
+How rude!	多無禮！
+He's gone.	他走了。
+Huh?	嗯？
+That's not a good idea.	那不是個好主意。
+Oh, by the way . . .  You will need the information contained in the printed documentation to successfully complete this game.  In other words, it's not just the law . . . It's a good idea.	對了…你會需要印刷手冊裡的資訊,才能順利完成本遊戲。換句話說,這不只是法律問題…也是個好主意。
+   Wow!  You're Really A Hero!  [score %d of 500]	   哇！你真的成為英雄了！[分數 %d / 500]
+Points Available	可用點數
+You still have points to allocate.	你還有點數要分配。
+Disk file in which to save your Hero.	用來儲存英雄的磁碟檔案。
+Could not create file -- %s.	無法建立檔案——%s。
+%s needs an 'at:' method.	%s 需要一個「at:」方法。
+New save-game directory:	新的存檔目錄：
+You must type a description for the game.	你必須為遊戲輸入描述。
+File: %s	檔案：%s
+Your save game disk is full. You must either use another disk or save over an existing saved game.	你的存檔磁片已滿。你必須使用另一張磁片或覆蓋現有的存檔。
+That game was saved under a different interpreter. It cannot be restored.	該遊戲是用不同的直譯器存檔的。無法還原。
+I don't understand "%s".	我不懂「%s」。
+That doesn't appear to be a proper sentence.	這似乎不是適當的句子。
+That sentence doesn't make sense.	那句話沒有意義。
+You've left me responseless.	你讓我無言以對。
+Please insert your %s disk in drive %s.	請在 %s 磁碟機中插入你的 %s 軟碟。
+Sorry, there's not enough room to see that here.	抱歉，這裡沒有足夠的空間看到那個。
+%s [Collection of size %d]	%s [集合大小 %d]
+%s [List of size %d]	%s [列表大小 %d]
+%s [Set of size %d]	%s [集合大小 %d]

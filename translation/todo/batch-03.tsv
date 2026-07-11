@@ -1,0 +1,130 @@
+ cue %d 	 cue %d 
+ cue %3d :%-3d 	 cue %3d :%-3d 
+loop %d cel %d x %3d y %3d	loop %d cel %d x %3d y %3d
+The well-kept Plazas of Shapeir are octagonal in shape.  Windows overlook the daily goings-on, and alleys lead outward toward other parts of the city.	The well-kept Plazas of Shapeir are octagonal in shape.  Windows overlook the daily goings-on, and alleys lead outward toward other parts of the city.
+The crystal clear water of the fountain is a priceless treasure in a land such as this.	The crystal clear water of the fountain is a priceless treasure in a land such as this.
+The cracked and dry fountain is a pitiful sight.	The cracked and dry fountain is a pitiful sight.
+The fountain water is cool and refreshing.	The fountain water is cool and refreshing.
+You don't have a waterskin.	You don't have a waterskin.
+But you do take advantage of the opportunity to quench your thirst.	But you do take advantage of the opportunity to quench your thirst.
+Your waterskin is full of water.	Your waterskin is full of water.
+Your waterskins are full of water.	Your waterskins are full of water.
+You fill your waterskin%c with cool, clear water from the fountain.	You fill your waterskin%c with cool, clear water from the fountain.
+The Water Elemental cooly responds with a wave.	The Water Elemental cooly responds with a wave.
+Any adventurer who would try to get water from an Elemental-inhabited fountain must be wet behind the ears.  That's no way to make a splash.	Any adventurer who would try to get water from an Elemental-inhabited fountain must be wet behind the ears.  That's no way to make a splash.
+For your information, "Go with the flow" is just an expression!  Wave bye-bye, everyone...	For your information, "Go with the flow" is just an expression!  Wave bye-bye, everyone...
+You pick up the waterskin that now contains the essence of the Water Elemental.	You pick up the waterskin that now contains the essence of the Water Elemental.
+You put the waterskin away.	You put the waterskin away.
+Your efforts managed to blow the Water Elemental out of the fountain temporarily, but it quickly returned when you stopped.	Your efforts managed to blow the Water Elemental out of the fountain temporarily, but it quickly returned when you stopped.
+I am Abu al-Nasir.	I am Abu al-Nasir.
+I am called Gharib Ajib.	I am called Gharib Ajib.
+I have been named Badr Basim.	I have been named Badr Basim.
+My name is Sayf al-Maluk.	My name is Sayf al-Maluk.
+I am known as Jabir bin Ma'amar.	I am known as Jabir bin Ma'amar.
+Hakim bin Yusuf al-Thakiff.	Hakim bin Yusuf al-Thakiff.
+You may call me Fakhr Taj.	You may call me Fakhr Taj.
+Ma fhimt.	Ma fhimt.
+The townsperson doesn't seem to understand you.	The townsperson doesn't seem to understand you.
+The merchant's prices are all too high.	The merchant's prices are all too high.
+It is hard to steal when someone is watching you as carefully as the merchant is.	It is hard to steal when someone is watching you as carefully as the merchant is.
+Merchants only sell; they don't buy things.	Merchants only sell; they don't buy things.
+A most interesting tale.	A most interesting tale.
+My pleasure it is to serve you, Effendi.	My pleasure it is to serve you, Effendi.
+Greetings, Hero of Spielburg.	Greetings, Hero of Spielburg.
+%s sells %s in the Plaza of the %s.	%s sells %s in the Plaza of the %s.
+Please be more specific, Effendi.	Please be more specific, Effendi.
+buy: unexpected CheckFunds result: %d	buy: unexpected CheckFunds result: %d
+You pay for the %s and put it away.	You pay for the %s and put it away.
+I have none of those today, Effendi.	I have none of those today, Effendi.
+You find you do not have enough money to buy it.	You find you do not have enough money to buy it.
+Alas, you will need to visit the Money Changer before you can buy something here.	Alas, you will need to visit the Money Changer before you can buy something here.
+Please approach me if you wish to purchase my wares, Effendi.	Please approach me if you wish to purchase my wares, Effendi.
+%s: unknown cue	%s: unknown cue
+The price of the %s is %d centimes.	The price of the %s is %d centimes.
+Throwing knives when guards are around is not the wisest course of action.	Throwing knives when guards are around is not the wisest course of action.
+By picking a lock you were choosing your fate.	By picking a lock you were choosing your fate.
+Next time you break into a shop, make sure there are no guards around.	Next time you break into a shop, make sure there are no guards around.
+The guard says, "I warned you once!", as he hauls you off to the local pokey.  Now play it again, Sam.	The guard says, "I warned you once!", as he hauls you off to the local pokey.  Now play it again, Sam.
+Is that what you are doing here?  It is certainly not right to steal, but if you are just borrowing those bellows to save the city, I certainly will not stop you.  I will talk to Issur in the morning and explain matters.	Is that what you are doing here?  It is certainly not right to steal, but if you are just borrowing those bellows to save the city, I certainly will not stop you.  I will talk to Issur in the morning and explain matters.
+What are you doing there?	What are you doing there?
+The door is barred and your magic has no effect.	The door is barred and your magic has no effect.
+The door's lock is too strong for your magic.	The door's lock is too strong for your magic.
+Don't worry about closing the door.	Don't worry about closing the door.
+Just walk over to the door.	Just walk over to the door.
+The door is not locked.	The door is not locked.
+You daren't try to pick the lock in broad daylight!	You daren't try to pick the lock in broad daylight!
+You aren't close enough.	You aren't close enough.
+This door appears to be barred from the inside.  Picking the lock will not help you enter.	This door appears to be barred from the inside.  Picking the lock will not help you enter.
+You're up to your compass in elementals!  You can't use your map now.	You're up to your compass in elementals!  You can't use your map now.
+There's too much going on to take time out for the map right now.	There's too much going on to take time out for the map right now.
+ ALT-U Show updating views ALT-S Show cast ALT-F Show Memory ALT-T Teleport ALT-V Visual ALT-P Priority ALT-C Control ALT-H Heavy-Duty Ego ALT-I Get InvItem ALT-B Set Ego's Bucks ALT-K Set one of Ego's sKills ALT-L Logfile ALT-W Write Features Ctrl-W Write Cast for Tester 	 ALT-U Show updating views ALT-S Show cast ALT-F Show Memory ALT-T Teleport ALT-V Visual ALT-P Priority ALT-C Control ALT-H Heavy-Duty Ego ALT-I Get InvItem ALT-B Set Ego's Bucks ALT-K Set one of Ego's sKills ALT-L Logfile ALT-W Write Features Ctrl-W Write Cast for Tester 
+view: %d x:%d y:%d %s %s illB=$%x	view: %d x:%d y:%d %s %s illB=$%x
+x:%d y:%d loop:%d cel:%d priority:%d 	x:%d y:%d loop:%d cel:%d priority:%d 
+signal $%04x	signal $%04x
+You're already seated.	You're already seated.
+Forgive us, friend, but there are no meals prepared at present, nor will there be until morning.	Forgive us, friend, but there are no meals prepared at present, nor will there be until morning.
+Forgive us, friend, but Shema is asleep.	Forgive us, friend, but Shema is asleep.
+Forgive us, friend, but Shema must prepare for the evening meal.  Perhaps you could wait until later for Shema to serve you.	Forgive us, friend, but Shema must prepare for the evening meal.  Perhaps you could wait until later for Shema to serve you.
+There is also my nephew Scoree in the bazaar at the fountain plaza, who will be very happy to sell you something to eat.	There is also my nephew Scoree in the bazaar at the fountain plaza, who will be very happy to sell you something to eat.
+If you will be seated, Shema will serve you.	If you will be seated, Shema will serve you.
+Certainly you do not wish for more to eat!	Certainly you do not wish for more to eat!
+You have some tea, Hero.	You have some tea, Hero.
+Here is some of our wonderful tea.	Here is some of our wonderful tea.
+I am here to serve you.	I am here to serve you.
+Shema will be with you shortly%s	Shema will be with you shortly%s
+You are pleased at the delicious smells and delightful ambiance of the newly remodeled Katta's Tail Inn.  You give it three and a half stars.	You are pleased at the delicious smells and delightful ambiance of the newly remodeled Katta's Tail Inn.  You give it three and a half stars.
+You are, of course, most welcome, my Hero.	You are, of course, most welcome, my Hero.
+Your tea is on the table.	Your tea is on the table.
+Perhaps you should sit and ordered some.	Perhaps you should sit and ordered some.
+The tea, as Abdulla has told you many times, is wonderful.	The tea, as Abdulla has told you many times, is wonderful.
+Aside from your water, you have nothing to drink.  You would no doubt receive tea with a meal.	Aside from your water, you have nothing to drink.  You would no doubt receive tea with a meal.
+You would undoubtedly receive tea with a meal, were you to order one.	You would undoubtedly receive tea with a meal, were you to order one.
+Your breakfast looks delicious.	Your breakfast looks delicious.
+It makes your mouth water.	It makes your mouth water.
+You think twice about eating more than one meal at a sitting.  Bicarbonate of soda hasn't been invented yet.	You think twice about eating more than one meal at a sitting.  Bicarbonate of soda hasn't been invented yet.
+It is most polite to eat restaurant meals while seated at a table.	It is most polite to eat restaurant meals while seated at a table.
+Your breakfast is delicious.	Your breakfast is delicious.
+You have a wonderful meal.  There are numerous salads, the two main courses, fruit, hot mint tea, dessert, and all the bread you could want.  You feel stuffed and content.	You have a wonderful meal.  There are numerous salads, the two main courses, fruit, hot mint tea, dessert, and all the bread you could want.  You feel stuffed and content.
+Unfortunately, you never really cared for sauerkraut and knockwurst, but you are too polite to tell Shema that.  You must admit the honey and lemons on the knockwurst aren't too bad, but the sauerkraut curry is a bit much.	Unfortunately, you never really cared for sauerkraut and knockwurst, but you are too polite to tell Shema that.  You must admit the honey and lemons on the knockwurst aren't too bad, but the sauerkraut curry is a bit much.
+Fortunately, Heroes never get bellyaches.	Fortunately, Heroes never get bellyaches.
+Fortunately, your strenuous regimen as a Hero prevents you from looking as round as Abdulla.	Fortunately, your strenuous regimen as a Hero prevents you from looking as round as Abdulla.
+After a meal like that, you feel it will be a struggle even to make it to bed.  But, what the hey, you're a Hero, you can do it!	After a meal like that, you feel it will be a struggle even to make it to bed.  But, what the hey, you're a Hero, you can do it!
+You should order a meal first.  It would be rude to eat your travel rations in your friends' Inn.	You should order a meal first.  It would be rude to eat your travel rations in your friends' Inn.
+You have no food.	You have no food.
+Perhaps it would be best, Effendi, if you returned it to Omar himself.	Perhaps it would be best, Effendi, if you returned it to Omar himself.
+It is hoped you enjoyed your first sights of our beautiful city of Shapeir.	It is hoped you enjoyed your first sights of our beautiful city of Shapeir.
+If you will be seated, then you will see my Shema dance.	If you will be seated, then you will see my Shema dance.
+Hero-friend, a most strange fire has been seen outside the Inn.  Take care as you leave.	Hero-friend, a most strange fire has been seen outside the Inn.  Take care as you leave.
+I fear, Hero-friend of the Katta, that Shapeir again needs your aid.  There is talk that an Elemental of the Earth is destroying the city.	I fear, Hero-friend of the Katta, that Shapeir again needs your aid.  There is talk that an Elemental of the Earth is destroying the city.
+The poet has personally asked that you be present tonight, for he wishes to speak with you after his reading.	The poet has personally asked that you be present tonight, for he wishes to speak with you after his reading.
+The poet will soon speak, if you will but be seated.	The poet will soon speak, if you will but be seated.
+Welcome, Hero.	Welcome, Hero.
+It is said that Uhura at the Guild Hall has a message for you as well.	It is said that Uhura at the Guild Hall has a message for you as well.
+Soon Shapeir will be awash in flames.  Hero, you must save us all again!	Soon Shapeir will be awash in flames.  Hero, you must save us all again!
+Alas, again our great city is in peril!  The most feared of all Elementals has been unleashed upon us -- the Water Elemental!	Alas, again our great city is in peril!  The most feared of all Elementals has been unleashed upon us -- the Water Elemental!
+Did you have a chance to meet and speak with those in our fair bazaar?  It is said there are many rumors in this city (but don't quote me on that).	Did you have a chance to meet and speak with those in our fair bazaar?  It is said there are many rumors in this city (but don't quote me on that).
+I must be sure to consult the Astrologer about the Fire Elemental.  It must certainly be a bad omen.	I must be sure to consult the Astrologer about the Fire Elemental.  It must certainly be a bad omen.
+It is a good thing that you are around to save us, %s.	It is a good thing that you are around to save us, %s.
+I am here to serve you, Hero.	I am here to serve you, Hero.
+Here is your tea.	Here is your tea.
+I will return with a splendid meal for you.	I will return with a splendid meal for you.
+Do not forget that Shema dances this night!	Do not forget that Shema dances this night!
+The Poet Omar will thrill all who hear with his words of song after the setting of the sun, in our own Inn!	The Poet Omar will thrill all who hear with his words of song after the setting of the sun, in our own Inn!
+We are most honored by your presence at our Inn, Hero of Spielburg.	We are most honored by your presence at our Inn, Hero of Spielburg.
+You are most welcome.	You are most welcome.
+Thank you, they are most beautiful.	Thank you, they are most beautiful.
+It is always a pleasure to see you, Great Hero.	It is always a pleasure to see you, Great Hero.
+Shema looks shyly down and shakes her head.	Shema looks shyly down and shakes her head.
+You awaken much refreshed.	You awaken much refreshed.
+I am so sorry that I have no answer to your question.	I am so sorry that I have no answer to your question.
+Forgive me, Hero-friend, but I am ignorant of such things.	Forgive me, Hero-friend, but I am ignorant of such things.
+It is good to be here again.  You will always be welcome in our Inn for the help you have given that allowed us to return here.	It is good to be here again.  You will always be welcome in our Inn for the help you have given that allowed us to return here.
+All Kattas in that city were driven out of their homes there.  Only my cousin, Sharaf, did not leave.  I fear for him.	All Kattas in that city were driven out of their homes there.  Only my cousin, Sharaf, did not leave.  I fear for him.
+I am not as skilled in the ways of magic as some.  I know only the quiet magic of the dance, and of how to make an inn seem a home.	I am not as skilled in the ways of magic as some.  I know only the quiet magic of the dance, and of how to make an inn seem a home.
+The Sultan here has always protected and welcomed our people.	The Sultan here has always protected and welcomed our people.
+The old Emir of Raseir was a kind and gentle man.  I cannot understand how the new Emir can be so cruel to our people.	The old Emir of Raseir was a kind and gentle man.  I cannot understand how the new Emir can be so cruel to our people.
+The Palace of the Sultan is east of our Inn.  You can see it over the gates from the Plaza of the Palace.	The Palace of the Sultan is east of our Inn.  You can see it over the gates from the Plaza of the Palace.
+The journey to Raseir is very far and very dangerous.  It can only be made by caravan.  If you do journey there, please look for my cousin, Sharaf.	The journey to Raseir is very far and very dangerous.  It can only be made by caravan.  If you do journey there, please look for my cousin, Sharaf.
+There are many dangers in the desert.  You must be very careful there.	There are many dangers in the desert.  You must be very careful there.
+You have no need of money in our home.  You will always be our guest.	You have no need of money in our home.  You will always be our guest.
+The Adventurer's Guild is northwest, off the Plaza of the Fighters.	The Adventurer's Guild is northwest, off the Plaza of the Fighters.
