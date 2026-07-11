@@ -1,0 +1,25 @@
+#!/bin/bash
+# 合併所有譯文 batch → 烘 16px + hi-res 字型 + runtime tsv。可重跑。
+set -e
+cd "$(dirname "$0")/.."
+SKEL=translation/full_skeleton.tsv
+OUT_UTF8=translation/translation_utf8.tsv
+# 收集所有譯文來源：預填 + 已完成批
+BATCHES=$(ls translation/batch/*.tsv translation/todo/*.done 2>/dev/null || true)
+python3 tools/merge_translations.py "$SKEL" "$OUT_UTF8" $BATCHES
+# 統計覆蓋
+python3 - <<PY
+import re
+n=t=0
+for l in open("$OUT_UTF8",encoding='utf-8'):
+    if '\t' not in l: continue
+    en,zh=l.rstrip('\n').split('\t',1); t+=1
+    if zh.strip()!=en.strip(): n+=1
+print(f"覆蓋: {n}/{t} ({100*n//t}%) 已譯")
+PY
+# 烘 16px 低解析 + runtime Big5 tsv
+python3 tools/build_cht.py "$OUT_UTF8" game --size 15
+# 烘 hi-res 32px
+python3 tools/bake_hires_font.py game/qfg1_big5_hi.fnt "$OUT_UTF8" --size 28 --height 28 --width 32
+echo "=== 產物 ==="
+ls -la game/translation.tsv game/qfg1_big5.fnt game/qfg1_big5_hi.fnt
