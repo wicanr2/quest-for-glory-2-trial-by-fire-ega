@@ -19,3 +19,4 @@ __pycache__/
 translation/todo/
 translation/translation_utf8.tsv
 translation/full_skeleton.tsv
+tools/.cache/
