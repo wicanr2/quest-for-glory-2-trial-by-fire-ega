@@ -27,5 +27,5 @@ cp "$HERE/patches/fontchinese.cpp" "$SRC/engines/sci/graphics/fontchinese.cpp"
 # 既有檔 diff
 patch -p0 -d "$SRC" < "$HERE/patches/0001-sci-cht-zh_twn.patch"
 
-echo ">> 已套用。configure 範例(docker 內):"
-echo "   ./configure --disable-all-engines --enable-engine=sci --disable-detection-full --disable-mt32emu"
+echo ">> 已套用。configure 範例(docker 內,MT-32 保持 enable,不帶 --disable-mt32emu):"
+echo "   ./configure --disable-all-engines --enable-engine=sci --disable-detection-full"
