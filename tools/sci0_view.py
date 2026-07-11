@@ -379,14 +379,15 @@ def rebuild_view(view: SCI0View, replacements: dict) -> bytes:
     for loopNo, loop in enumerate(view.loops):
         for celNo, cel in enumerate(loop.cels):
             key = (loopNo, celNo)
-            if key in replacements:
-                bitmap = replacements[key]
-                assert len(bitmap) == cel.width * cel.height, (
-                    f"replacement bitmap for loop {loopNo} cel {celNo} has "
-                    f"{len(bitmap)} bytes, expected {cel.width * cel.height} "
-                    f"({cel.width}x{cel.height})")
-            else:
-                bitmap = decode_cel_raw(view, loopNo, celNo)
+            # 只重編 append 被 replace 的 cel；未替換者保留原 offset 表 entry 與原 cel
+            # 資料不動 → 避免每個 cel 都重編膨脹撐爆 16-bit offset 上限。
+            if key not in replacements:
+                continue
+            bitmap = replacements[key]
+            assert len(bitmap) == cel.width * cel.height, (
+                f"replacement bitmap for loop {loopNo} cel {celNo} has "
+                f"{len(bitmap)} bytes, expected {cel.width * cel.height} "
+                f"({cel.width}x{cel.height})")
 
             stream = encode_ega_stream(bitmap)
 
