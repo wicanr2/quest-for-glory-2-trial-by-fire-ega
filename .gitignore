@@ -1,0 +1,18 @@
+# 遊戲資源不入庫（patch-only 交付）
+game/
+extract/dump/
+# 截圖含遊戲畫面
+out/
+# 完整包（含遊戲+ROM，本機保留）
+dist-all/
+# build 產物
+scummvm-src/
+build/
+*.o
+*.dwo
+*.d
+__pycache__/
+*.pyc
+.venv/
+# MT-32 ROM 有版權
+*.ROM
