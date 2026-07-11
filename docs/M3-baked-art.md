@@ -31,3 +31,11 @@
 | "Noon of this Night" | 夜之正午 | 特有時間用語（全批沿用） |
 
 > 收斂原則：Spielburg 須對齊 qfg-1 譯名。其餘全域掃描確保單一音譯。
+
+## 進度更新 (2026-07-12)
+
+- ✅ **主選單卷軸 view.765 完成**：序章/建立英雄/匯入英雄/繼續冒險，紅首字母，實機驗證。
+  - 工具：`render_cel_cht.py`(硬邊二值化) + `sci0_view.py encode`(已修 rebuild 膨脹 bug) + `build_menu.sh`。
+  - patch：`art/ega/view.765`(13435 bytes)，打包放 game dir。
+- ⏳ **序章標題 logo**：QFG2 EGA 開場無 QFG1 式獨立大標題 view(直接版權框→intro 動畫)，暫緩。
+- ⏳ **credits 職稱**：片尾，低優先，暫緩。
