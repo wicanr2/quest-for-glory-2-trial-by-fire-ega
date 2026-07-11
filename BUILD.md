@@ -40,13 +40,13 @@ ROM 有版權，本 repo 與 dev-setup 包都不附，玩家自備 ROM 放進遊
 ## 2. 套用中文資料 + 啟動
 
 ```bash
-cp dist/translation.tsv dist/qfg1_big5.fnt dist/qfg1_big5_hi.fnt dist/view.765 <你的QFG2遊戲資料夾>/
+cp dist/translation.tsv dist/qfg1_big5.fnt dist/qfg1_big5_hi.fnt dist/view.765 dist/view.800 <你的QFG2遊戲資料夾>/
 <scummvm-src>/scummvm --path=<你的QFG2遊戲資料夾> --language=tw --auto-detect
 ```
 
 `translation.tsv`／`qfg1_big5.fnt`／`qfg1_big5_hi.fnt` 是寫死的檔名（沿用 qfg-1 命名），引擎在
 `getLanguage()==ZH_TWN` 時會從遊戲路徑讀取這幾個檔案。`view.765` 是主選單卷軸的中文 baked-art
-（序章／建立英雄／匯入英雄／繼續冒險）。
+（序章／建立英雄／匯入英雄／繼續冒險），`view.800` 是職業選擇畫面的中文職業名 baked-art（戰士／法師／盜賊）。
 
 ## 3. 交付原則（硬，不可違反）
 
