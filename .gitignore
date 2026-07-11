@@ -16,3 +16,6 @@ __pycache__/
 .venv/
 # MT-32 ROM 有版權
 *.ROM
+translation/todo/
+translation/translation_utf8.tsv
+translation/full_skeleton.tsv

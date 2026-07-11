@@ -1,0 +1,130 @@
+The sun reflects off Shapeir's many towers.	陽光映照在夏皮爾的無數尖塔上。
+How's about a nice... Wait?!... What is-a that up there?	來喔，要不要來點...等等？！...那上面是什麼東西？
+Could not find Hero file -- %s.	找不到英雄檔案──%s。
+I'm terribly sorry.  That doesn't seem to be a proper Quest for Glory I character save file.	非常抱歉，這似乎不是有效的《英雄傳奇 I》角色存檔。
+a:glory1.sav	a:glory1.sav
+Please insert the disk on which you saved your winning Hero from "Quest for Glory I: So You Want To Be A Hero" into the disk drive so that your Hero can make the journey to Shapeir.	請將您《英雄傳奇 I：你想成為英雄》(So You Want To Be A Hero) 中存下的過關英雄磁碟片，插入磁碟機，讓英雄能啟程前往夏皮爾。
+Character successfully imported.	角色匯入成功。
+Do you want to try importing your character again?	要再試一次匯入角色嗎？
+Too many files in this directory	此目錄中檔案過多
+Illegal character(s) in file name	檔名含有不合法字元
+Name must be 8 characters or less	名稱須為 8 個字元以內
+New directory:	新目錄：
+%s  is not a valid directory	%s  不是有效目錄
+TAB to move around, Arrows to adjust values.	按 TAB 移動，方向鍵調整數值。
+Choose a new character type?	要選擇新的角色類型嗎？
+Please choose a longer name for your character.	請為您的角色選擇較長的名稱。
+With the help of the Slave Woman, Mayzun, you found the Emir Ali hiding in his bedroom.  With your urging (and a few sharp remarks from Mayzun), the Emir swore he'd restore the city.  By the first light of dawn, the Emir Ali al-Din Hasan ordered all fighting to cease and proclaimed the evil rule of Ad Avis and Khaveen to be over.  As the Emir began an incredibly dull speech, you slipped away to complete your quest.	在女奴梅尊的協助下，你在臥室裡找到了藏身的埃米爾阿里。在你的勸說（以及梅尊幾句尖銳的提醒）下，埃米爾發誓要恢復這座城市。天色微亮之際，埃米爾阿里·阿丁·哈桑下令停止一切戰鬥，並宣告阿德·阿維斯與哈維因的邪惡統治就此終結。就在埃米爾開始發表冗長乏味的演說時，你悄悄溜走，繼續完成你的任務。
+You stare in wonder at the powerful transformation of the Plaza by the magic of the Water Elemental.	你驚訝地凝視著水元素的魔法為廣場帶來的驚人蛻變。
+Will anyone speak for this Stranger from the North?	有誰願意為這位來自北方的異鄉人發言？
+We are Shameen and Shema, keepers of the Katta's Tail Inn.  When the Katta were driven from Raseir, we journeyed to the Northland in search of a hero.	我們是沙明與舍瑪，卡塔之尾旅店的主人。當卡塔族被逐出拉希爾時，我們啟程前往北方尋找英雄。
+He journeyed back with us to Shapeir.  Here he defeated the Elementals of Fire, Air, Earth, and Water to save our city.	他與我們一同回到夏皮爾。在此，他擊敗了火、風、土、水四大元素，拯救了我們的城市。
+Who will speak for this man of compassion?	有誰願意為這位仁慈之人發言？
+Who will speak for this man of Honor?	有誰願意為這位榮譽之人發言？
+I am Zayishah, daughter of the Emir Ali Al-Din Hasan.	我是扎伊莎，埃米爾阿里·阿丁·哈桑之女。
+Gronk.	咕嚕。
+I am the Poet Omar, Teller of tales for all to hear.	我是詩人歐瑪爾，向眾人講述故事的說書人。
+I proclaim this man a Hero,	我在此宣告，此人為英雄，
+Honesty in dealing with others, and Mercy to his enemies.	待人誠實，對敵仁慈。
+He is a man of great Honor.	他是一位極具榮譽感的人。
+I, Rasha Rakeesh SahTarna,	我，拉沙·拉基什·薩塔納，
+You are now a Paladin.	你現在是一位聖騎士了。
+a:glory2.sav	a:glory2.sav
+CONGRATULATIONS!! You have successfully completed "Quest for Glory II:  Trial by Fire" with the maximum possible score, %d of %d!! We welcome you to the ranks of the few, the proud, the True Heroes!	恭喜！！你已成功以滿分通關《英雄傳奇 II：烈火試煉》，%d 分（滿分 %d）！！歡迎加入真英雄──這群為數不多、令人驕傲的行列！
+Congratulations!  You have successfully completed "Quest for Glory II:  Trial by Fire." Your final score was %d of %d possible Puzzle Points.	恭喜！你已成功通關《英雄傳奇 II：烈火試煉》。你的最終得分為 %d 分（滿分 %d 解謎點數）。
+If you have not already done so, we encourage you to play "Quest for Glory II" again with the other two character types; many of the puzzles are different, or have alternate solutions.	如果你還沒試過，建議你用另外兩種角色類型再玩一次《英雄傳奇 II》；許多謎題會有所不同，或有其他解法。
+In the meantime, you are already a winner! Please insert a writable disk in your floppy drive to save your winning Hero for use in "Quest for Glory III:  Shadows of Darkness."	不論如何，你已經是勝利者！請在軟碟機中插入可寫入的磁碟片，儲存你的過關英雄，以便在《英雄傳奇 III：暗影之詛》中使用。
+File already exists.  Do you wish to overwrite?	檔案已存在，要覆寫嗎？
+The save character file has been created.  Save this disk for use with "Quest for Glory III:  Shadows of Darkness" from Sierra On-Line.	角色存檔已建立完成。請保留此磁碟片，以便用於 Sierra On-Line 的《英雄傳奇 III：暗影之詛》。
+Do you wish to try saving your character again?	要再試一次儲存角色嗎？
+Thank you for playing "Quest for Glory II:  Trial by Fire," and congratulations again on winning.  We'll see you again soon in "Quest for Glory III: Shadows of Darkness."	感謝您遊玩《英雄傳奇 II：烈火試煉》，再次恭喜您獲勝。我們將在《英雄傳奇 III：暗影之詛》中再會。
+    Congratulations, Paladin!  [score %d of %d]	    恭喜你，聖騎士！  [得分 %d，滿分 %d]
+       Hero of Two Lands!  [score %d of %d]	       兩地英雄！  [得分 %d，滿分 %d]
+Ha Ha Ha Haaaaaaah Ha Haah Ha Ha Haaaah Ha Haaaa!	哈哈哈哈哈哈哈！哈哈哈！哈哈哈哈哈！哈哈哈哈！
+And so, as the moon moves slowly through the starry sky above the mountains and the desert of Shapeir, our Hero bids a fond "Adieu" to his latest set of adventures and miserable puns.  Where will the road lead next...?	就這樣，當月亮緩緩劃過夏皮爾山巒與沙漠上空的星空，我們的英雄向他這趟充滿冒險與蹩腳雙關語的旅程道一聲珍重的「再見」。前方的道路，又將通往何方呢……？
+But wait!  There's more to come in the next thrilling saga of "Quest for Glory" by Lori and Corey.	且慢！柯瑞與蘿莉·柯爾打造的《英雄傳奇》系列，還有更多精彩故事等著你！
+Our next game...	我們的下一部作品……
+Twinkle, twinkle.	閃爍，閃爍。
+The best way to get goods across the desert is by pack saurus.	要橫越沙漠運送貨物，最好的方法就是使用馱獸索魯斯。
+The Bedouins of the desert are good people, for the most part.	沙漠中的貝都因人大多是善良的人。
+Before the sun has risen over the mountaintops, you are awakened by Shameen, who tells you that even now, the caravan to Raseir is preparing to depart.	天還未亮，太陽尚未升上山頭，沙明便將你喚醒，告訴你前往拉希爾的商隊此刻正準備出發。
+Shema greets you as you leave the room with some breakfast and supplies to take with you.  The inn is filled with katta merchants who wish you luck upon your departure.	你離開房間時，舍瑪迎上前來，遞給你早餐與隨行補給。旅店裡擠滿了卡塔族商人，紛紛祝你一路順風。
+As you pass through the gate of Shapeir, the gate guard presents you with a new saurus, a gift from the Sultan.  Ahead in the desert sands awaits a mass of Saurii and riders being led by the Caravan Master, a huge Centaur who orders the Caravan into motion before the sun can be seen.	當你穿過夏皮爾城門時，守衛送上蘇丹贈予的一頭新索魯斯。前方沙地上，一大群索魯斯與騎手正等候著，由商隊隊長率領──那是一位魁梧的半人馬，他在日出前便下令商隊啟程。
+The only way of getting goods across the desert is by pack saurus.	橫越沙漠運送貨物的唯一方法，就是使用馱獸索魯斯。
+The caravan comes under siege from hundreds of nomadic brigands.  Your small group is vastly outnumbered.  The situation looks grim.	商隊遭到數百名遊牧盜匪的圍攻。你們人數懸殊、寡不敵眾，情勢看來十分嚴峻。
+I love the smell of victory in the morning.      ......  It smells like.....sweat.. no, no      ...oregano ....nooo...like Victory!  Yea      Victory!...Yea! Yea!  That's the ticket.	我愛清晨勝利的氣味。      ......  聞起來像是.....汗水..不對，不對      ...牛至草....不對不對...像是勝利！耶      勝利！...耶！耶！就是這樣！
+After a week of travelling, you leave the Caravan when it comes within sight of the city of Raseir.	經過一週的跋涉，當商隊終於望見拉希爾城時，你便與商隊分道揚鑣。
+He rears up and salutes you, and you watch the Caravan move onward into the desert.	牠人立起身向你致意，你目送商隊繼續深入沙漠。
+The saurus is an amazing beast.  This steed must have remained at the gate, awaiting your future need, while you carried on your business in Raseir.	索魯斯真是令人驚嘆的坐騎。想必在你於拉希爾辦事期間，牠便一直留在城門邊，等候你未來的需要。
+What type of path?	路徑類型？
+PATH.%d	PATH.%d
+Use path currently in memory?	要使用目前記憶體中的路徑嗎？
+On 	於 
+Polygon access type?	多邊形存取類型？
+Defining polygons (or paths):  Move cursor to point and click button to define point. Ctrl click marks path end.  Other useful keys:  F4 or <alt-C>: Show control screen. F2 or <alt-V>: Show visual. E: toggle ego showing or hidden. P: toggle position info on/off. <alt-M>: Modify path. <ctrl-S>: Quit and save all path data ESC: Quit without saving.	定義多邊形（或路徑）：  將游標移至該點並按下按鍵以定義該點。Ctrl 點擊標記路徑終點。  其他實用按鍵：  F4 或 <alt-C>：顯示控制畫面。F2 或 <alt-V>：顯示視覺畫面。E：切換主角顯示／隱藏。P：切換位置資訊顯示／隱藏。<alt-M>：修改路徑。<ctrl-S>：離開並儲存所有路徑資料 ESC：離開但不儲存。
+Path maker and polygon editor Written by Chad Bye	路徑產生器與多邊形編輯器 由 Chad Bye 撰寫
+Off	關閉
+Modifying defined polygons:  <space>: Move to next defined point. <enter>: Select and edit point. C: Cut point. I: Insert point after current point. ESC: Return to creating new points. F4 or <alt-C>: Show control screen. F2 or <alt-V>: Show visual. E: toggle ego showing or hidden. P: toggle position info on/off.  Editing point:  Move cursor to new point and click mouse button.	修改已定義的多邊形：  <space>：移至下一個已定義的點。<enter>：選取並編輯該點。C：剪下該點。I：在目前點之後插入新點。ESC：返回建立新點模式。F4 或 <alt-C>：顯示控制畫面。F2 或 <alt-V>：顯示視覺畫面。E：切換主角顯示／隱藏。P：切換位置資訊顯示／隱藏。  編輯點：  將游標移至新位置並按下滑鼠按鍵。
+;** Path points for picture #%d  (local 	;** 圖片 #%d 的路徑點  (local 
+Saving Freeway path	正在儲存 Freeway 路徑
+	
+	
+	
+Saving PolyPath	正在儲存 PolyPath
+	
+)  ;** The following belongs in the room's init:  	)  ;** 以下內容應置於房間的 init 中：  
+	
+	
+poly%d 	poly%d 
+ 	 
+(instance poly%d of Polygon 	(instance poly%d of Polygon 
+      nsLeft %d       nsTop %d       nsBottom %d       nsRight %d 	      nsLeft %d       nsTop %d       nsBottom %d       nsRight %d 
+      view %d       loop %d       cel %d 	      view %d       loop %d       cel %d 
+(instance %s of %s    (properties       x %d        y %d        z %d        heading %d        noun '%s'  %s      description "%s"        sightAngle %d        closeRangeDist %d        longRangeDist %d        shiftClick %s        contClick %s     ) ) 	(instance %s of %s    (properties       x %d        y %d        z %d        heading %d        noun '%s'  %s      description "%s"        sightAngle %d        closeRangeDist %d        longRangeDist %d        shiftClick %s        contClick %s     ) ) 
+verbLook	verbLook
+verbGet	verbGet
+Outline Features?	要繪製輪廓特徵嗎？
+Display code to screen?	要將程式碼顯示於畫面嗎？
+Class?	類別？
+Z property	Z 屬性
+Please click the mouse on the objects projection onto the ground	請將滑鼠點擊在物件投影到地面的位置
+Click left mouse button on top left corner	請按滑鼠左鍵點擊左上角
+Click left mouse button on bottom right corner	請按滑鼠左鍵點擊右下角
+The %s looks like any other %s.	%s看起來和其他%s沒什麼兩樣。
+You cannot open the %s.	你無法打開%s。
+You cannot close the %s.	你無法關上%s。
+The %s has no smell.	%s沒有氣味。
+You cannot move the %s.	你無法移動%s。
+You wouldn't want to eat the %s.	你應該不會想吃%s。
+You cannot get the %s.	你無法拿取%s。
+You can't climb the %s.	你無法攀爬%s。
+The %s has nothing to say.	%s無話可說。
+You don't see the %s	你沒看到%s
+You're not facing the %s.	你並未面向%s。
+ in state %d 	 於狀態 %d 
+Nature of bug...	問題性質……
+Ego at %d/%d H:%d V:%d L:%d C:%d SIGNAL:%04x 	主角位於 %d/%d H:%d V:%d L:%d C:%d SIGNAL:%04x 
+%ssg.dir	%ssg.dir
+%s is not a valid directory	%s 不是有效目錄
+You'll have to buy a compass first.	你得先買一個羅盤才行。
+You'll have to buy a map first.	你得先買一張地圖才行。
+The magic map only works in the streets and plazas of Shapeir.	這張魔法地圖只能在夏皮爾的街道與廣場中使用。
+x.yyy    	x.yyy    
+Too thirsty to go on	口渴難耐，無法繼續前進
+Unknown word	未知的字詞
+Couldn't parse	無法解析
+No response	沒有回應
+Trial	試煉
+ Room script %s: state %d	 房間腳本 %s：狀態 %d
+Let's be glorious	讓我們奪得榮耀
+ Quest for Glory 2:  Trial By Fire 	 英雄傳奇 II：烈火試煉 
+You don't have the skill to pick locks.	你不會撬鎖這項技能。
+You don't have any lock picking equipment.	你沒有任何撬鎖工具。
+An Unbalanced Diet	失衡的飲食
+Where to?	要往哪裡去？
+Intro	片頭
+New Hero	新英雄
+Import	匯入
+Talker	對話角色
+Stage	舞台
+Combatant	戰鬥角色

@@ -1,0 +1,130 @@
+the coil of rope	一圈繩子
+It is your Magic Rope.	這是你的魔法繩索。
+your Magic Rope	你的魔法繩索
+Your Magic Rope performs well.	你的魔法繩索運作良好。
+Projectile	拋射物
+any dirt	任何泥土
+any sand	任何沙子
+any powder	任何粉末
+a rock	一塊石頭
+a throwing knife	一把飛刀
+the rope	繩子
+ Done 	 完成 
+Empty 	空的 
+Almost empty 	快耗盡 
+Half Full 	半滿 
+Magic Lamp	魔法油燈
+dqsnd.dbg	dqsnd.dbg
+a flickering flame	一團閃爍的火焰
+Flame	火焰
+a gaseous jet of flame	一股噴發的氣態火焰
+an alley door	一扇小巷的門
+You see a dark passage leading West.  The street sign reads "Naufara Darb," which means "Fountain Avenue."	你看到一條通往西邊的黑暗通道。街道招牌寫著「瑙法拉巴布」，意思是「噴泉大道」。
+You see a dark passage leading East.  The street sign reads "Sultan Darb," which means "Sultan's Avenue."	你看到一條通往東邊的黑暗通道。街道招牌寫著「蘇丹巴布」，意思是「蘇丹大道」。
+You see a dark passage leading South.  The street sign reads "Tarik of Stars," which means "Street of Stars."  Gosh, that one was a lot easier to translate!	你看到一條通往南邊的黑暗通道。街道招牌寫著「塔里克之星」，意思是「群星之街」。哎呀，這個翻譯起來輕鬆多了！
+You see a dark passage leading North.  The street sign reads "Hawa Darb," which means "Air Avenue."	你看到一條通往北邊的黑暗通道。街道招牌寫著「哈瓦巴布」，意思是「風之大道」。
+You see a dark passage leading North.  The street sign reads "Junub Tarik," which means "South Street."	你看到一條通往北邊的黑暗通道。街道招牌寫著「朱努布塔里克」，意思是「南街」。
+You see a dark passage leading North.  The street sign reads "Shmali Tarik," which means "North Street."	你看到一條通往北邊的黑暗通道。街道招牌寫著「什馬利塔里克」，意思是「北街」。
+You see a dark passage leading South.  The street sign reads "Junub Tarik," which means "South Street."	你看到一條通往南邊的黑暗通道。街道招牌寫著「朱努布塔里克」，意思是「南街」。
+You see a dark passage leading East.  The street sign reads "Kital Darb," which means "Battle Avenue."	你看到一條通往東邊的黑暗通道。街道招牌寫著「基塔爾巴布」，意思是「戰鬥大道」。
+You see a dark passage leading West.  The street sign reads "Sultan Darb," which means "Sultan's Avenue."	你看到一條通往西邊的黑暗通道。街道招牌寫著「蘇丹巴布」，意思是「蘇丹大道」。
+the city fountain	城市噴泉
+the splashing water	濺起的水花
+Watery tart!	水汪汪的浪貨！
+the Water Elemental	水元素
+It's a lot of hot air.	只是一堆熱氣罷了。
+the wind bag	風袋
+You feel drained...	你感到精疲力竭…
+the waterskin	水袋
+It's a waterskin.	這是一個水袋。
+Townsperson:	鎮民：
+A local townsperson.	一名當地鎮民。
+the townsperson	鎮民
+lovely flowers	美麗的花朵
+Lasham	拉沙姆
+hardy plants	耐旱植物
+Fountain	噴泉
+sturdy baskets	堅固的籃子
+Tashtari	塔什塔里
+brass and lamps	黃銅器與油燈
+Keapon Laffin	奇朋·拉芬
+magical items	魔法物品
+Sloree and Scoree	斯洛里與斯科里
+delicious food	美味佳餚
+Toshur	托舒爾
+fine pottery	精美陶器
+Harik Attar	哈里克·阿塔爾
+potions and pills	藥水與藥丸
+Kiram	基拉姆
+sturdy clothing	耐穿的衣物
+Fighters	戰士
+Issur	伊蘇爾
+Mirak	米拉克
+leather goods	皮革製品
+Tiram	提拉姆
+Palace	宮殿
+Sashanan	沙沙南
+fine jewelry	精美珠寶
+Guard:	衛兵：
+a local guard	一名當地衛兵
+Guard	衛兵
+Guards Hate Knife Throwers	衛兵痛恨丟飛刀的人
+Blatant Thievery	公然行竊
+Do you not know that practicing Magic is best done outside of the city?  Do not let me see you using magic around here again unless it is needed!	你難道不知道施展魔法最好在城外進行嗎？除非必要，否則別讓我再看到你在這附近使用魔法！
+Error opening file %s	開啟檔案 %s 時發生錯誤
+; Tester 2.33	; Tester 2.33
+Actor	角色
+File name [.set]	檔案名稱 [.set]
+.set	.set
+Djinni:	精靈：
+Moneychanger	錢幣兌換商
+Saurus Lot	索魯斯坐騎場
+Weapons Shop	武器店
+Apothecary	藥鋪
+Astrologer	占星師
+Katta's Tail Inn	卡塔尾旅店
+Enchantress	女巫師
+Gates Plaza	城門廣場
+Palace Plaza	宮殿廣場
+Fighters Plaza	戰士廣場
+Get Inventory Item	取得物品欄項目
+Inventory ID	物品欄編號
+Quantity	數量
+What should each skill be?	每項技能應該設為多少？
+Get Bucks	取得金錢
+Dinars	第納爾
+ with one of her splendid meals.	 用她那頓豐盛的美食款待你。
+Shameen:	沙明：
+It is your good friend, Shameen.	這是你的好朋友，沙明。
+Shema:	舍瑪：
+It is your good friend, Shema.	這是你的好朋友，舍瑪。
+the katta musician	卡塔族樂師
+a comfortable pillow	一個舒適的靠枕
+a pillow	一個靠枕
+a tassel	一個流蘇
+braided rope	編織繩
+a tray	一個托盤
+It is a patron of the Inn, drinking and dining, no doubt.	這是旅店的一位客人，想必正在吃喝。
+a patron of the Inn	旅店的客人
+It is a low, round table  There is a green pillow on the floor near it.	這是一張低矮的圓桌，附近地板上有一個綠色靠枕。
+a table	一張桌子
+It is one of several low, round tables.	這是好幾張低矮圓桌中的一張。
+an oil lamp	一盞油燈
+It is an oil lamp (batteries not included...or even necessary).	這是一盞油燈（不含電池…其實也用不到）。
+It is a large brass bottle.  What a genie it could hold!	這是一個大黃銅瓶。裡面說不定能裝下一位精靈！
+a brass bottle	一個黃銅瓶
+It is an oil lamp.	這是一盞油燈。
+  How long do you wish to sleep? 	  你想睡多久？ 
+Asleep at the Katta's Tail Inn	在卡塔尾旅店安睡
+Until Dawn	直到黎明
+Until Evening	直到傍晚
+One Hour	一小時
+Stay Awake	保持清醒
+Omar:	奧瑪：
+Omar the Poet	詩人奧瑪
+It is Omar the Poet.	這是詩人奧瑪。
+Ja'Afar:	賈法爾：
+It is Omar's companion and translator, Ja'Afar.	這是奧瑪的同伴兼翻譯，賈法爾。
+Abdulla:	阿布杜拉：
+Abdulla Doo	阿布杜拉·杜
+silver dagger	銀匕首

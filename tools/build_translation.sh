@@ -5,8 +5,25 @@ cd "$(dirname "$0")/.."
 SKEL=translation/full_skeleton.tsv
 OUT_UTF8=translation/translation_utf8.tsv
 # 收集所有譯文來源：預填 + 已完成批
-BATCHES=$(ls translation/batch/*.tsv translation/todo/*.done 2>/dev/null || true)
+BATCHES=$(ls translation/batch/*.tsv translation/batch/*.done 2>/dev/null || true)
 python3 tools/merge_translations.py "$SKEL" "$OUT_UTF8" $BATCHES
+# 對全部譯文(含預填)套全域收斂
+python3 - "$OUT_UTF8" <<PYEOF
+import sys
+conv=[]
+for l in open('translation/converge.tsv',encoding='utf-8'):
+    if l.startswith('#') or '\t' not in l: continue
+    a,b=l.rstrip('\n').split('\t',1); conv.append((a,b))
+p=sys.argv[1]; lines=open(p,encoding='utf-8').read().split('\n')
+out=[]
+for ln in lines:
+    if '\t' in ln:
+        en,zh=ln.split('\t',1)
+        for a,b in conv: zh=zh.replace(a,b)
+        out.append(en+'\t'+zh)
+    else: out.append(ln)
+open(p,'w',encoding='utf-8').write('\n'.join(out))
+PYEOF
 # 統計覆蓋
 python3 - <<PY
 import re
