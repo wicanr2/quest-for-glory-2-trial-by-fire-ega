@@ -48,7 +48,11 @@
 
 ## 🎬 預告片
 
-53 秒推廣短片，英中對照式蒙太奇，配樂取自遊戲原版音樂。分鏡總覽：
+53 秒推廣短片，英中對照式蒙太奇，配樂取自遊戲原版音樂。
+
+[![英雄傳奇 II EGA 繁體中文化 — 預告片](https://img.youtube.com/vi/NOyy0-YPZ4s/maxresdefault.jpg)](https://youtu.be/NOyy0-YPZ4s)
+
+分鏡總覽：
 
 ![預告片分鏡](docs/images/promo_preview.png)
 
